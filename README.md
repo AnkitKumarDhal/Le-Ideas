@@ -6,10 +6,10 @@ A curated collection of future project ideas, organized for easy browsing and ex
 
 ## Idea Index
 
-| ID | Status | Priority | Category | Title |
-|----|--------|----------|----------|-------|
-| #001 | Proposed | High | Productivity | CozyFocus - Animated Study Environment |
-| #002 | Proposed | Medium | Education | EduHub - Unified Learning Platform |
+| ID | Status | Category | Title |
+|----|--------|----------|-------|
+| #001 | Proposed | Productivity | CozyFocus - Animated Study Environment |
+| #002 | Proposed | Education | EduHub - Unified Learning Platform |
 
 ---
 
